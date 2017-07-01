@@ -1,4 +1,4 @@
-# Cubical Spline
+# Cubic Spline
 
 This project was made as an extension of my homework task at Numerical analysis course at schoolyear 2015/16.
 
